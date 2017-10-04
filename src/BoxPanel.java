@@ -1,5 +1,3 @@
-package checkerboard;
-
 import javax.swing.*;
 import java.awt.*;
 
@@ -40,7 +38,7 @@ public class BoxPanel extends JPanel{
         }
 
 
-        //checkerboard:
+        //Checkerboard:
 //        int width = getWidth()/8;
 //        for(int j = 0; j < 8; j++) {
 //            for (int i = 0; i < 8; i++) {
@@ -52,7 +50,7 @@ public class BoxPanel extends JPanel{
 //                }
 //            }
 //        }
-        //end checkerboard
+        //end Checkerboard
 
 
 

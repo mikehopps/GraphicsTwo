@@ -1,5 +1,3 @@
-package checkerboard;
-
 import javax.swing.*;
 import java.awt.*;
 
